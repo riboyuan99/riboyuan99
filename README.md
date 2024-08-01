@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**riboyuan99/riboyuan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ribo Yuan</h1>
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I am currently a MEng student at **UCLA** 
+- 🏢 Obtained my BS in Computer Science from **University of Delaware**.
+- 💻 Interested in **Web Development** and **Machine Learning**
+- 🏡 Lives in **Los Angeles, CA**
+
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+ [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@riboyuan")](https://www.linkedin.com/in/riboyuan/) 
+ [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ribocareer@gmail.com")](ribocareer@gmail.com)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
+<br>
+
+
+Last edited on: 08/01/2022
