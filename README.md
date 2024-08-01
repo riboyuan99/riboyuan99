@@ -15,8 +15,9 @@
 
 <br>
 
- [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/riboyuan/)) 
- [![My Skills](https://skillicons.dev/icons?i=gmail)](ribocareer@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/riboyuan/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ribocareer@gmail.com)
+
 
 <br>
 
