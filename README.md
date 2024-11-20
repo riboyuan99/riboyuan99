@@ -27,7 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,d3,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,linux)](https://skillicons.dev)
 
 <br>
 
